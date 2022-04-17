@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "backgroundImage": "http://localhost:8000/images/background-1.jpg",
+    "backgroundColor": "#121212"
+  },
+  "components": [
+    {
+      "type": "input",
+      "content": "Username or Email"
+    },
+    {
+      "type": "input",
+      "content": "password",
+      "keyboard": "secure"
+    },
+    {
+      "type": "button",
+      "content": "Login",
+      "action": "login"
+    }
+  ]
+}
