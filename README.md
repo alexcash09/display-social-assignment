@@ -5,8 +5,11 @@ Welcome to the Display take-home interview!
 Check out the [prompt](PROMPT.md) to get started.
 
 ## Technologies Used
+
 React
 React Bootstrap
+yarn
+
 
 The app is hosted in the app directory. See "Available Scripts" section on how to run the application.
 
