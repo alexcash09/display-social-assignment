@@ -11,13 +11,13 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+#### currently tests are not setup right now so this will do nothing. see [Issues](https://github.com/alexcash09/display-social-assignment/issues) for more information about what still needs to be done. 
 
 ### `yarn build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To deploy the application I copied all the files in the build folder to the display folder. 
 
 ### `yarn eject`
 

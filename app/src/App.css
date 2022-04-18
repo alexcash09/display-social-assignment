@@ -1,3 +1,14 @@
+/* user defined css */
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* end user defined css */
+
 .App {
   text-align: center;
 }
